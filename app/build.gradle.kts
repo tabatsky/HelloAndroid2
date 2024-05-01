@@ -4,14 +4,14 @@ plugins {
 }
 
 android {
-    buildToolsVersion = "31.0.0"
+    //buildToolsVersion = "31.0.0"
     namespace = "jatx.helloandroid2"
-    compileSdk = 30
+    compileSdk = 28
 
     defaultConfig {
         applicationId = "jatx.helloandroid2"
         minSdk = 28
-        targetSdk = 30
+        targetSdk = 28
         versionCode = 1
         versionName = "1.0"
 
