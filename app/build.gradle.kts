@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    //buildToolsVersion = "31.0.0"
+    buildToolsVersion = "29.0.0"
     namespace = "jatx.helloandroid2"
     compileSdk = 28
 
